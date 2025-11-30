@@ -1,0 +1,13 @@
+
+> physics-wallah-ai-coach@0.1.0 dev
+> next dev --turbopack
+
+ ⚠ Port 3000 is in use by process 1839, using available port 3003 instead.
+   ▲ Next.js 15.5.2 (Turbopack)
+   - Local:        http://localhost:3003
+   - Network:      http://10.85.14.43:3003
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 682ms
+[?25h
