@@ -1,0 +1,41 @@
+    DEBUG  asyncio         
+    DEV    livekit.agents  
+    DEBUG  asyncio         
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     DEBUG  asyncio           
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     WARNI… watchfiles.main   
+     ERROR  livekit.agents    
+     WARNI… watchfiles.main   
+Exception ignored in: <module 'threading' from '/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/threading.py'>
+Traceback (most recent call last):
+  File "/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/threading.py", line 1624, in _shutdown
+    lock.acquire()
+  File "/Users/himanshujha/ten-days-of-voice-agents-2025/backend/.venv/lib/python3.12/site-packages/watchfiles/run.py", line 426, in raise_keyboard_interrupt
+    logger.warning('received signal %s, raising KeyboardInterrupt', signal.Signals(signum))
+  File "/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/logging/__init__.py", line 1551, in warning
+    self._log(WARNING, msg, args, **kwargs)
+  File "/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/logging/__init__.py", line 1672, in _log
+    fn, lno, func, sinfo = self.findCaller(stack_info, stacklevel)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/logging/__init__.py", line 1632, in findCaller
+    if not _is_internal_frame(f):
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/logging/__init__.py", line 202, in _is_internal_frame
+    filename = os.path.normcase(frame.f_code.co_filename)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen posixpath>", line 52, in normcase
+  File "/Users/himanshujha/ten-days-of-voice-agents-2025/backend/.venv/lib/python3.12/site-packages/watchfiles/run.py", line 427, in raise_keyboard_interrupt
+    raise KeyboardInterrupt
+KeyboardInterrupt: 

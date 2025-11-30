@@ -1,0 +1,100 @@
+[
+    {
+        "id": "kfc-001",
+        "name": "Classic Zinger Burger",
+        "price": 199,
+        "category": "Burgers",
+        "description": "Signature chicken burger made with a crunchy chicken fillet, veggies & a delicious spicy sauce."
+    },
+    {
+        "id": "kfc-002",
+        "name": "Chicken Popcorn (Large)",
+        "price": 229,
+        "category": "Snacks",
+        "description": "Signature bite-sized boneless chicken, with special spices."
+    },
+    {
+        "id": "kfc-003",
+        "name": "Hot & Crispy Chicken (4pc)",
+        "price": 449,
+        "category": "Chicken",
+        "description": "Signature Hot & crispy chicken."
+    },
+    {
+        "id": "kfc-004",
+        "name": "Smoky Red Chicken (4pc)",
+        "price": 499,
+        "category": "Chicken",
+        "description": "Spicy, red, grilled chicken."
+    },
+    {
+        "id": "kfc-005",
+        "name": "Ultimate Savings Bucket",
+        "price": 699,
+        "category": "Buckets",
+        "description": "4pc Hot & Crispy Chicken, 6 Hot Wings, 2 Dips & a Pepsi PET."
+    },
+    {
+        "id": "kfc-006",
+        "name": "Wednesday Bucket",
+        "price": 599,
+        "category": "Buckets",
+        "description": "10pc Hot & Crispy Chicken (Special Wednesday Offer)."
+    },
+    {
+        "id": "kfc-007",
+        "name": "Rice Bowlz - Chicken Popcorn",
+        "price": 219,
+        "category": "Rice Bowls",
+        "description": "Aromatic rice topped with crunchy Popcorn Chicken & spicy gravy."
+    },
+    {
+        "id": "kfc-008",
+        "name": "Veg Zinger Burger",
+        "price": 179,
+        "category": "Burgers",
+        "description": "Crispy veg patty with veggies & delicious sauce."
+    },
+    {
+        "id": "kfc-009",
+        "name": "Fries (Large)",
+        "price": 119,
+        "category": "Sides",
+        "description": "Crispy, golden fries."
+    },
+    {
+        "id": "kfc-010",
+        "name": "Pepsi (Medium)",
+        "price": 99,
+        "category": "Beverages",
+        "description": "Refreshing Pepsi."
+    },
+    {
+        "id": "kfc-011",
+        "name": "Choco Mud Pie",
+        "price": 129,
+        "category": "Desserts",
+        "description": "Chocolate mousse cake."
+    },
+    {
+        "id": "kfc-012",
+        "name": "Mingle Bucket",
+        "price": 499,
+        "category": "Buckets",
+        "description": "4 Hot Wings, 2 Chicken Strips, 1 Reg Popcorn, 1 Medium Fries."
+    },
+    {
+        "id": "kfc-013",
+        "name": "Super Snacker Deal",
+        "price": 399,
+        "category": "Deals",
+        "description": "2 Classic Zinger Burgers + 1 Medium Fries."
+    },
+    {
+        "id": "kfc-014",
+        "name": "Big 8 Bucket",
+        "price": 799,
+        "category": "Buckets",
+        "description": "4pc Hot & Crispy + 4pc Smoky Red Chicken."
+    }
+]

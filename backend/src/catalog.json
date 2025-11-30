@@ -1,0 +1,97 @@
+[
+    {
+        "id": "mob-001",
+        "name": "Apple iPhone 15 (Black, 128 GB)",
+        "description": "Experience the dynamic island and 48MP camera. A16 Bionic chip for lightning-fast performance.",
+        "price": 79900,
+        "category": "mobiles",
+        "attributes": {
+            "brand": "Apple",
+            "color": "Black",
+            "storage": "128 GB"
+        }
+    },
+    {
+        "id": "mob-002",
+        "name": "Samsung Galaxy S24 Ultra (Titanium Grey, 256 GB)",
+        "description": "Galaxy AI is here. 200MP camera, S Pen included, and the powerful Snapdragon 8 Gen 3.",
+        "price": 129999,
+        "category": "mobiles",
+        "attributes": {
+            "brand": "Samsung",
+            "color": "Titanium Grey",
+            "storage": "256 GB"
+        }
+    },
+    {
+        "id": "lap-001",
+        "name": "Apple MacBook Air M2 (Starlight, 256 GB)",
+        "description": "Supercharged by M2. Strikingly thin design and all-day battery life.",
+        "price": 99900,
+        "category": "laptops",
+        "attributes": {
+            "brand": "Apple",
+            "processor": "M2",
+            "ram": "8 GB"
+        }
+    },
+    {
+        "id": "lap-002",
+        "name": "ASUS TUF Gaming F15 (Core i5 11th Gen)",
+        "description": "Geared for serious gaming and real-world durability. RTX 3050 graphics.",
+        "price": 54990,
+        "category": "laptops",
+        "attributes": {
+            "brand": "ASUS",
+            "processor": "Intel Core i5",
+            "graphics": "RTX 3050"
+        }
+    },
+    {
+        "id": "fash-001",
+        "name": "Nike Air Jordan 1 Low",
+        "description": "Premium leather upper with Air-Sole unit for lightweight cushioning.",
+        "price": 8995,
+        "category": "fashion",
+        "attributes": {
+            "brand": "Nike",
+            "type": "Shoes",
+            "gender": "Men"
+        }
+    },
+    {
+        "id": "fash-002",
+        "name": "Levi's Men's 511 Slim Fit Jeans",
+        "description": "A modern slim with room to move. The perfect alternative to skinny jeans.",
+        "price": 2499,
+        "category": "fashion",
+        "attributes": {
+            "brand": "Levi's",
+            "color": "Blue",
+            "fit": "Slim"
+        }
+    },
+    {
+        "id": "home-001",
+        "name": "Philips Air Fryer HD9200/90",
+        "description": "Great tasting fries with up to 90% less fat. Rapid Air Technology.",
+        "price": 6999,
+        "category": "home",
+        "attributes": {
+            "brand": "Philips",
+            "capacity": "4.1 L"
+        }
+    },
+    {
+        "id": "home-002",
+        "name": "Sony Bravia 55 inch 4K Ultra HD Smart LED TV",
+        "description": "Breathtaking colors and contrast with 4K X-Reality PRO.",
+        "price": 64990,
+        "category": "home",
+        "attributes": {
+            "brand": "Sony",
+            "resolution": "4K",
+            "size": "55 inch"
+        }
+    }
+]

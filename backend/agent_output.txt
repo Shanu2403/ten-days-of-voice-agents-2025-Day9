@@ -1,0 +1,61 @@
+    DEBUG  asyncio         
+    DEV    livekit.agents  
+    DEBUG  asyncio         
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+    INFO   livekit.agents  
+     INFO   livekit.agents    
+     DEBUG  livekit.agents    
+     INFO   livekit.agents    
+     INFO   zomato-agent      
+     INFO   zomato-agent      
+     INFO   livekit.agents    
+     DEBUG  asyncio           
+     INFO   zomato-agent      
+     INFO   zomato-agent      
+     WARNI… livekit.agents    
+     DEBUG  livekit.agents    
+     DEBUG  livekit.agents    
+     DEBUG  livekit.agents    
+     DEBUG  livekit.agents    
+     INFO   zomato-agent      
+     INFO   zomato-agent      
+     DEBUG  livekit.agents    
+     WARNI… livekit.agents    
+     DEBUG  livekit.plugins…  
+     WARNI… livekit.agents    
+     WARNI… livekit.agents    
+     INFO   livekit.agents    
+     DEBUG  livekit.agents    
+     INFO   zomato-agent      
+     DEBUG  livekit.plugins…  
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     DEBUG  livekit.agents    
+     DEBUG  livekit.agents    
+     DEBUG  livekit.agents    
+     INFO   livekit.agents    
+     DEBUG  livekit.agents    
+     INFO   zomato-agent      
+     DEBUG  livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     DEBUG  asyncio           
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     INFO   livekit.agents    
+     WARNI… watchfiles.main   
+     ERROR  livekit.agents    
+     WARNI… watchfiles.main   
+Exception ignored in: <module 'threading' from '/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/threading.py'>
+Traceback (most recent call last):
+  File "/Users/himanshujha/.local/share/uv/python/cpython-3.12.11-macos-aarch64-none/lib/python3.12/threading.py", line 1624, in _shutdown
+    lock.acquire()
+  File "/Users/himanshujha/ten-days-of-voice-agents-2025/backend/.venv/lib/python3.12/site-packages/watchfiles/run.py", line 427, in raise_keyboard_interrupt
+    raise KeyboardInterrupt
+KeyboardInterrupt: 
